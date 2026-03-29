@@ -1,0 +1,25 @@
+# Data
+data/ModelNet10/
+data/ModelNet10.zip
+
+# Checkpoints
+checkpoints/*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
